@@ -3,10 +3,10 @@
 // @namespace   https://p1kachu.net
 // @description Insert Keepa chart into Amazon mobile. Tested on Adguard for Android.
 // @author      pikatenor
-// @version     0.0.1
-// @downloadURL https://p1kachu.net/TBD
-// @updateURL   https://p1kachu.net/TBD
-// @supportURL  https://p1kachu.net/TBD
+// @version     0.1.0
+// @downloadURL https://raw.githubusercontent.com/pikatenor/keepa-mobile/master/keepa.user.js
+// @updateURL   https://raw.githubusercontent.com/pikatenor/keepa-mobile/master/keepa.user.js
+// @supportURL  https://github.com/pikatenor/keepa-mobile
 // @include     https://www.amazon.tld/dp/*
 // @include     https://www.amazon.tld/*/dp/*
 // @include     https://www.amazon.tld/gp/product/*
